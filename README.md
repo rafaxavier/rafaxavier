@@ -6,8 +6,8 @@
 <div>
 <p>Olá! Sou <strong>Rafael  </strong>(: </p>
 <p>Minha diversão é aprender coisas novas e programar;</p>
-<p>Entusiasta em tecnologia, tal como arduíno, sistemas em web e mobile;</p>
-# Estudando as stacks em torno do JS, como React, React-native e nodeJS
+<p>Entusiasta em tecnologia, tenho como hobby e profissão, projetos arduíno, sistemas e mobile;</p>
+# Estudando atualmente as stacks em torno do JS, como React, React-native e nodeJS
 </div>
 
 <br><br>
