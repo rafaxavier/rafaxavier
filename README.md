@@ -4,10 +4,10 @@
 # Rafael Xavier [![Linkedin Badge](https://img.shields.io/badge/Linkedin-009?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-xavier-b263a5a0/)<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP8r24EKLamsTz4CUJCqH3lvxSTNvkyjU5Sg&usqp=CAU" width="40px">
 
 <div>
-<p>Olá! Sou <strong>Rafael  </strong>(: </p>
-<p>Minha diversão é aprender coisas novas e programar;</p>
-<p>Entusiasta em tecnologia, tenho como hobby e profissão, projetos arduíno, sistemas e mobile;</p>
-# Estudando atualmente as stacks em torno do JS, como React, React-native e nodeJS
+<p>Hello! I'm <strong>Rafael</strong>(: </p>
+<p>My fun is learning new things and programming;</p>
+<p>Enthusiast in technology, my hobby and profession are Arduino projects, systems and mobile;</p>
+# Currently studying stacks around JS, such as React, React-native and nodeJS
 </div>
 
 <br><br>
