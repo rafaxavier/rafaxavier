@@ -1,7 +1,7 @@
 
 
 
-# Rafael Xavier [![Linkedin Badge](https://img.shields.io/badge/Linkedin-009?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-xavier-b263a5a0/)<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP8r24EKLamsTz4CUJCqH3lvxSTNvkyjU5Sg&usqp=CAU" width="40px">
+# Rafael Xavier [![Linkedin Badge](https://img.shields.io/badge/Linkedin-009?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-xavier-b263a5a0/)
 
 <div>
 <p>Hello! I'm <strong>Rafael</strong>(: </p>
