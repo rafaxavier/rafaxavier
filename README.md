@@ -11,8 +11,3 @@
 </div>
 
 <br><br>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafaxavier&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafaxavier&layout=compact&langs_count=12&theme=dracula"/>
-</div>
